@@ -1,6 +1,6 @@
 ## Bigmart Sales Data
 
-In this project, we try to work on [bigmart sales data practice problem](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) hosted by analytics vidhaya. All plots are plotted using **Seaborn** and **Matplotlib** libraries. 
+In this project, we try to work on [bigmart sales data]((https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)) practice problem hosted by analytics vidhaya. All plots are plotted using **Seaborn** and **Matplotlib** libraries. 
 
 The Jupyter Notebook file is [here](https://github.com/abishekarun/Bigmart-Sales-Data/blob/master/bigmart_sales.ipynb) for this project.
 
