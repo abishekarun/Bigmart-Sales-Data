@@ -2,7 +2,7 @@
 
 In this project, we try to work on [bigmart sales data]((https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)) practice problem hosted by analytics vidhaya. All plots are plotted using **Seaborn** and **Matplotlib** libraries. 
 
-The Jupyter Notebook file is [here](https://github.com/abishekarun/Bigmart-Sales-Data/blob/master/bigmart_sales.ipynb) for this project.
+The Jupyter Notebook file is [here](https://nbviewer.jupyter.org/github/abishekarun/Bigmart-Sales-Data/blob/master/bigmart_sales.ipynb) for this project.
 
 The resources that helped me are:
 
